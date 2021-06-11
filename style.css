@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 #header {
     background: darkred;
     width: 715px;
@@ -14,6 +17,9 @@
     background: oldlace;
     width: 525px;
     height: 300px;
+    position: absolute;
+    left: 190px;
+    top: 100px;
 }
 #footer {
     background: darkred;
